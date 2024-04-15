@@ -1,3 +1,4 @@
 data/
 data.zip
 .DS_store
+eeg_analysis temp.ipynb
